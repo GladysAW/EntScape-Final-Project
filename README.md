@@ -43,7 +43,9 @@ To get started with Entscape, please follow these steps:
 
 In case you encounter any hiccups, please note that the registration form and the registration through other means such as google or facebook is under development.
 
-![](client/src/assets/screenshots/entscape_gif_desktop.gif) ![](client/src/assets/screenshots/entscape_gif_mobile.gif)
+![](client/src/assets/screenshots/entscape_gif_desktop.gif)
+
+![](client/src/assets/screenshots/entscape_gif_mobile.gif)
 
 ## Contributors and Contacts
 
