@@ -26,7 +26,7 @@ To get started with Entscape, please follow these steps:
 
 1. Access Entscape in your web browser at the specified URL: https://entscape-spa.onrender.com
 2. Register through the registration form, adding your first and last name, desired username, E-mail and password.
-3. add your preference and eplore the universe of entertainment!
+3. add your preference and explore the universe of entertainment!
 4. when clicking on a title (a movie for example), we will show you whether there's a book related! and vise versa!
 5. add your favourites to your collection! and share it with your friends!
 6. you can change your profile information and photo in the settings!
@@ -34,7 +34,7 @@ To get started with Entscape, please follow these steps:
 In case you encounter any hiccups, please note that the registration form and the registration through other means such as google or facebook is under development.
 
 ![](client/src/assets/screenshots/entscape_gif_desktop.gif)
-branch
+
 ![](client/src/assets/screenshots/entscape_gif_mobile.gif)
 
 ## Contributors and Contacts
