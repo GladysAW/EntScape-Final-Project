@@ -31,11 +31,11 @@ To get started with Entscape, please follow these steps:
 5. add your favourites to your collection! and share it with your friends!
 6. you can change your profile information and photo in the settings!
 
-In case you encounter any hiccups, please note that the registration form and the registration through other means such as google or facebook is under development.
-
 ![](client/src/assets/screenshots/entscape_gif_desktop.gif)
 branch
 ![](client/src/assets/screenshots/entscape_gif_mobile.gif)
+
+In case you encounter any hiccups, please note that the registration form and the registration through other means such as google or facebook is under development.
 
 ## Contributors and Contacts
 
