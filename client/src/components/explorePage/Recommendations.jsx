@@ -5,6 +5,7 @@ import { DataContext } from '../../data/context';
 import MovieCard from '../card/MovieCard';
 import BookCard from '../card/BookCard';
 import styles from '../card/Card.module.scss';
+import Loading from '../loading/Loading';
 
 const Recommendations = () => {
   const [recommendations, setRecommendations] = useState([]);
@@ -67,7 +68,7 @@ const Recommendations = () => {
   }
 
   if (loading) {
-    return <p>Loading...</p>;
+    return <Loading />;
   }
 
   if (user.bookLover) {
