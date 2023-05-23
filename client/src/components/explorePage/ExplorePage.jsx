@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import MoviesList from './MoviesList';
 import TvShowsList from './TvShowsList';
 import styles from '../card/Card.module.scss';
